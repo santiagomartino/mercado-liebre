@@ -1,0 +1,46 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ebebeb;
+}
+
+header{
+    background-color: #EAC926;
+}
+
+#ultima-visita #ofertas{
+    font-size: 24px;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+.descuentos .descripciones{
+    font-size: 16px;
+}
+.descripciones{
+    color: #666;
+}
+
+.descuentos{
+    color: #39b54a;
+}
+
+p{
+    font-size: 12px;
+}
+
+.icono-camion{
+    color: #39b54a;
+}
+.iconos-abajo{
+    color: #1259c3;
+}
+article{
+    background-color: white;
+}
+footer{
+    background-color: white;
+}
