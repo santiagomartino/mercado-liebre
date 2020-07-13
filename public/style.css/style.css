@@ -44,3 +44,8 @@ article{
 footer{
     background-color: white;
 }
+.navegador li{
+    color: black;
+    list-style-type: none;
+}
+
